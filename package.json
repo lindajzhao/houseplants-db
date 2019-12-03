@@ -1,0 +1,35 @@
+{
+  "name": "houseplant-db",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/bluebird": "^3.5.29",
+    "@types/cheerio": "^0.22.15",
+    "@types/node-fetch": "^2.5.4",
+    "axios": "^0.17.1",
+    "bluebird": "^3.7.2",
+    "body-parser": "^1.18.2",
+    "cheerio": "^1.0.0-rc.2",
+    "clean-webpack-plugin": "^0.1.19",
+    "cors": "^2.8.4",
+    "mongoose": "^4.13.6",
+    "node-fetch": "^2.6.0",
+    "webpack": "^3.10.0",
+    "webpack-dev-server": "^2.9.7",
+    "webpack-merge": "^4.1.4"
+  },
+  "devDependencies": {
+    "@types/body-parser": "^1.17.1",
+    "@types/cors": "^2.8.6",
+    "@types/express": "^4.17.1",
+    "source-map-loader": "^0.2.4",
+    "ts-loader": "^6.2.0",
+    "typescript": "^3.6.4"
+  }
+}
