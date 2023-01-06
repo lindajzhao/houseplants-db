@@ -24,7 +24,7 @@
     "node-fetch": "^2.6.0",
     "nodemon": "^2.0.1",
     "ts-node": "^8.5.4",
-    "webpack": "^3.10.0",
+    "webpack": "^5.75.0",
     "webpack-dev-server": "^2.9.7",
     "webpack-merge": "^4.1.4"
   },
